@@ -1,9 +1,6 @@
 # Parallel Pixel Morphing (CS 358)
 
 **Author:** Shreeniket Bendre
-**Course:** CS 358 (Parallel Computing)
-**Date:** December 2, 2025
-
 ---
 
 ## Table of contents
