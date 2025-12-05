@@ -1,4 +1,4 @@
-# Parallel Pixel Morphing (CS 358)
+# Parallel Pixel Morphing
 
 **Author:** Shreeniket Bendre
 ---
